@@ -1,5 +1,5 @@
 # Statistical_Analysis_of_Climate_Change_in_India🌍📊
-Overview: This project analyzes temperature change data in India from 1901 to 2020, focusing on identifying trends, regional variations, and predicting future changes. Completed as part of my MSc in Big Data Analytics.
+Overview: This project, completed in collaboration with Soham Mhatre and Shalini Chaurasia, analyzes temperature change data in India from 1901 to 2020. We focused on identifying trends, regional variations, and predicting future changes as part of our MSc in Big Data Analytics.
 
 Key Objectives:
 
